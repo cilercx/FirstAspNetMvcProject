@@ -13,5 +13,9 @@ namespace FirstAspNetMvcProject.Controllers
         {
             return View();
         }
+        public ActionResult Kategoriler()
+        {
+            return View();
+        }
     }
 }
